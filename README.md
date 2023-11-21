@@ -1,6 +1,8 @@
 # Curso Digital: Git
 
-## Gravando mudanças no repositório
+## Salvando alterações no Git
+* comando Git push
+* comando Git pull
 
 
 
